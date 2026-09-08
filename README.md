@@ -232,3 +232,6 @@ This repository serves as the official landing page for Slenderman's Shadow. The
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of Slenderman's Shadow today!**
+
+---
+**Last updated:** 2026-09-08 19:40:32 UTC
